@@ -1,6 +1,19 @@
+# Node/React
 node_modules/
-__pycache__/
-.env
 frontend/dist
+
+# Python
+__pycache__/
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Media & Databases
 sample_database/
 *.mp3
+
+# AI Models (Too large for GitHub)
+.deepface/
